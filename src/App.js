@@ -1,9 +1,9 @@
 import React from 'react'
-import Accordion from './components/Accordion'
+import Comment from './components/Comment'
 
 const App = () => {
   return (
-    <div><Accordion /></div>
+    <div><Comment /></div>
   )
 }
 
